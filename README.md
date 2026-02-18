@@ -1,7 +1,7 @@
 # Sunwoo (sunwoopia)
 
 ## Experience
-- Full Stack Engineer at Wisely (2025.07 - Present)
+- Full Stack Engineer at (주)와이즐리컴퍼니 (2025.07 - Present)
 - 개발팀 프리랜서 at (주)에프티 (2024.09 - 2025.06)
 - Dev Team Developer at 주식회사미피랩스 (2022.09 - 2023.06)
 - Dev Team Front-end Engineer at 더도티오라운지 (2021.12 - 2022.06)
