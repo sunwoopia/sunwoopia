@@ -2,6 +2,11 @@
 
 ## Experience
 - Full Stack Engineer at Wisely (2025.07 - Present)
+- 개발팀 프리랜서 at (주)에프티 (2024.09 - 2025.06)
+- Dev Team Developer at 주식회사미피랩스 (2022.09 - 2023.06)
+- Dev Team Front-end Engineer at 더도티오라운지 (2021.12 - 2022.06)
+- Dev Team 인턴 at (주)볼트앤너트 (2020.12 - 2021.02)
+- 하사 at 육군본부 (2019.09 - 2020.03)
 
 ## Education
 - 국민대학교 소프트웨어융합대학 소프트웨어학사 (2017 - 2025)
